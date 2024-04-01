@@ -61,3 +61,5 @@ yarn dev
 <ul>
   <li>Once the server is running, open your web browser and go to <a href="http://localhost:3000">http://localhost:3000</a>.</li>
 </ul>
+
+### Let's get connected on instagram: <a href="https://instagram.com/i.slyro">@i.slyro<a>.
